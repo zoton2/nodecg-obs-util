@@ -1,0 +1,20 @@
+{
+  "name": "nodecg-obs-util",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoton2/nodecg-obs-util.git"
+  },
+  "author": "zoton2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoton2/nodecg-obs-util/issues"
+  },
+  "homepage": "https://github.com/zoton2/nodecg-obs-util#readme",
+  "nodecg": {
+    "compatibleRange": "^1.0.0"
+  },
+  "dependencies": {
+    "obs-websocket-js": "^2.0.1"
+  }
+}
